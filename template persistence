@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<taskmania>
+	<job name="Verão" description="Altura do ano de Junho a Setembro">
+		<task name="ferias" description="tempo de lazer" state="todo">
+			<interval start="" end="" />
+			<interval start="" end="" />
+			<interval start="" end="" />
+		</task>
+	</job>
+</taskmania>
